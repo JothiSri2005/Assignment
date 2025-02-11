@@ -1,0 +1,12 @@
+/* 1b.css - Button Hover Animation */
+.hover-button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.hover-button:hover {
+    background-color: red;
+}
